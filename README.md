@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm ![Dong1C](https://github.com/Dong1C)! 👋</h1>
+<h1 align="center">Hello, I'm Dong1C! 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Dong1C/Dong1C/blob/main/pic.jpg" alt="Your Profile Picture" width="150" height="150" style="border-radius:50%">
@@ -37,12 +37,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dong1C&show_icons=true&theme=radical" alt="Your GitHub stats">
 </p>
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong1C&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ### 💬 Get in Touch

@@ -28,8 +28,8 @@
 </p>
 
 ### 🚀 Projects
-- [**DCFL_testing**](https://github.com/Dong1C/MMrotate_DCFL_Detection): The workflow where I finished my graduate work on MMrotate. ![Repo stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project1?style=social)
-- [**Gradio UI**](https://github.com/Dong1C/studious-fortnight): The UI designment of the project "DCFL_testing". ![Repo stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project2?style=social)
+- [**DCFL_testing**](https://github.com/Dong1C/MMrotate_DCFL_Detection): The workflow where I finished my graduate work on MMrotate. ![Repo stars](https://img.shields.io/github/stars/Dong1C/MMrotate_DCFL_Detection?style=social) ![Repo forks](https://img.shields.io/github/forks/Dong1C/MMrotate_DCFL_Detection?style=social)
+- [**Gradio UI**](https://github.com/Dong1C/studious-fortnight): The UI designment of the project "DCFL_testing". ![Repo stars](https://img.shields.io/github/stars/Dong1C/studious-fortnight?style=social) ![Repo forks](https://img.shields.io/github/forks/Dong1C/studious-fortnight?style=social)
 
 ### 📝 Blog & Writing
 - [**My Blog**](https://yourblogurl.com): Sharing thoughts on [Topics you write about].

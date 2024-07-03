@@ -28,8 +28,8 @@
 </p>
 
 ### 🚀 Projects
-- [**Project Name 1**](https://github.com/yourusername/project1): Brief description of your project. ![Repo stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project1?style=social)
-- [**Project Name 2**](https://github.com/yourusername/project2): Brief description of your project. ![Repo stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project2?style=social)
+- [**DCFL_testing**](https://github.com/Dong1C/MMrotate_DCFL_Detection): The workflow where I finished my graduate work on MMrotate. ![Repo stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project1?style=social)
+- [**Gradio UI**](https://github.com/Dong1C/studious-fortnight): The UI designment of the project "DCFL_testing". ![Repo stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Repo forks](https://img.shields.io/github/forks/yourusername/project2?style=social)
 
 ### 📝 Blog & Writing
 - [**My Blog**](https://yourblogurl.com): Sharing thoughts on [Topics you write about].

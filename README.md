@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Dong1C](https://github.com/Dong1C)! 👋</h1>
+<h1 align="center">Hello, I'm ![Dong1C](https://github.com/Dong1C)! 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Dong1C/Dong1C/blob/main/pic.jpg" alt="Your Profile Picture" width="150" height="150" style="border-radius:50%">

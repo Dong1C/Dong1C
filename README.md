@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name]! 👋
 
-![Your Profile Picture](https://yourimageurl.com) <!-- Replace with your image URL -->
+![Your Profile Picture](https://github.com/Dong1C/Dong1C/blob/main/pic.jpg) <!-- Replace with your image URL -->
 
 ### 🌟 About Me
 - 🎓 I’m a [Your Major] graduate from [Your University].

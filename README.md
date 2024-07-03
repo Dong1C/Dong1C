@@ -35,15 +35,21 @@
 - [**My Blog**](https://yourblogurl.com): Sharing thoughts on [Topics you write about].
 - [**Medium Profile**](https://medium.com/@yourusername): Selected articles and posts.
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dong1C&show_icons=true&theme=radical" alt="Your GitHub stats">
-</p>
 
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong1C&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<div align="center"> 
+  <h2>📊 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dong1C&show_icons=true&theme=radical" alt="Your GitHub stats">
+  </p>
+  
+  <h2>📈 Most Used Languages</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dong1C&layout=compact&theme=radical" alt="Top Languages">
+  </p>
+</div>
+
+
+
 
 ### 💬 Get in Touch
 <p align="center">

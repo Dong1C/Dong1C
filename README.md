@@ -1,7 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dong1C&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
-Major in AI in college but found no job. Now working on web dev and thriving to get a better job... 
+Major in AI but know nothing about AI...
+Coding without knowing C...
+Practicing coding without doing some real projects...
+But a passionate programmer maybe...
 
 ## Languages and Tools 
 <div>
@@ -87,7 +90,7 @@ Major in AI in college but found no job. Now working on web dev and thriving to 
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dong1C&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">

@@ -95,7 +95,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/Dong1C/Dong1C/edit/main/snake.svg" alt=""/>
+  <img src="assets/snake.svg" alt=""/>
 </div>
 
 <!--

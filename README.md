@@ -94,6 +94,10 @@
   <img src="https://komarev.com/ghpvc/?username=Dong1C&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://github.com/Dong1C/Dong1C/edit/main/snake.svg" alt=""/>
+</div>
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dong1C/Dong1C/output/github-contribution-grid-snake-dark.svg">
